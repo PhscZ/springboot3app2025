@@ -1,0 +1,5 @@
+br/gov/sp/fatec/springboot3app2025/service/UsuarioService.class
+br/gov/sp/fatec/springboot3app2025/Springboot3app2025Application.class
+br/gov/sp/fatec/springboot3app2025/entity/Usuario.class
+br/gov/sp/fatec/springboot3app2025/controller/UsuarioController.class
+br/gov/sp/fatec/springboot3app2025/repository/UsuarioRepository.class

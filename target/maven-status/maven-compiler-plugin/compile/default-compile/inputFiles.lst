@@ -1,0 +1,6 @@
+/workspaces/springboot3app2025/src/main/java/br/gov/sp/fatec/springboot3app2025/Springboot3app2025Application.java
+/workspaces/springboot3app2025/src/main/java/br/gov/sp/fatec/springboot3app2025/controller/UsuarioController.java
+/workspaces/springboot3app2025/src/main/java/br/gov/sp/fatec/springboot3app2025/entity/Anotacao.java
+/workspaces/springboot3app2025/src/main/java/br/gov/sp/fatec/springboot3app2025/entity/Usuario.java
+/workspaces/springboot3app2025/src/main/java/br/gov/sp/fatec/springboot3app2025/repository/UsuarioRepository.java
+/workspaces/springboot3app2025/src/main/java/br/gov/sp/fatec/springboot3app2025/service/UsuarioService.java
